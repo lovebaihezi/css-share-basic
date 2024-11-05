@@ -1,11 +1,10 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 基础
 
-To start the slide show:
+## CSS是
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+- 除了”层叠样式表”这种足够官方的叫法, 还可以认为是CSS是给HTML用的Spark SQL, 这样就是: $\text{HTML} \xrightarrow{CSS} \text{UI}$.
+- 
 
-Edit the [slides.md](./slides.md) to see the changes.
+## CSS的写法变迁
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+- table(Dream Weaver) → float → pos → flex(grid)

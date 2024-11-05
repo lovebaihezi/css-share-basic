@@ -5,12 +5,11 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: CSS Basic
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## Share basic knowledge of CSS
+  including the history and the writing methods, and how to build up the world in mind
+  
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
